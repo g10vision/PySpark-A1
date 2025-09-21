@@ -1,0 +1,25 @@
+# Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# VS Code settings
+.vscode/
+
+# Spark temp files
+*.crc
+*.out
+*.eventLog
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Archive files
+*.zip
+*.tar.gz
+
+# Environment files
+.env
