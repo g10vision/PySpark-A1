@@ -9,12 +9,12 @@ This project demonstrates a simple PySpark application using DataFrames, compati
    pip install -r requirements.txt
 
 2. **Set Environment Variables**:
-SPARK_HOME: C:\Program Files\spark-3.5.6
-JAVA_HOME: C:\Program Files\Java\jdk-11
-PYSPARK_PYTHON: C:\Program Files\Python311\python.exe
+<br>SPARK_HOME: C:\Program Files\spark-3.5.6
+<br>JAVA_HOME: C:\Program Files\Java\jdk-11
+<br>PYSPARK_PYTHON: C:\Program Files\Python311\python.exe
 
 3. Run App:
-python main.py
+<br>python main.py
 
 4. Run Diagnostics:
-python diagnostic_launcher.py
+<br>python diagnostic_launcher.py
